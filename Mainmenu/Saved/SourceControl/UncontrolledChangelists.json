@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Asus/OneDrive/Desktop/Main_Menu/Content/UIASSETS/newModule.uasset",
+				"C:/Users/prath/OneDrive/Documents/Unreal Projects/Main_Menu/Content/UIASSETS/MAINMenu.umap",
+				"C:/Users/prath/OneDrive/Documents/Unreal Projects/Main_Menu/Content/UIASSETS/Coalition_v2_.uasset",
+				"C:/Users/prath/OneDrive/Documents/Unreal Projects/Main_Menu/Content/UIASSETS/Coalition_v2__Font.uasset",
+				"C:/Users/prath/OneDrive/Documents/Unreal Projects/Main_Menu/Content/UIASSETS/BG_Image.uasset",
+				"C:/Users/prath/OneDrive/Documents/Unreal Projects/Main_Menu/Content/UIASSETS/BG_Soldier_1.uasset",
+				"C:/Users/prath/OneDrive/Documents/Unreal Projects/Main_Menu/Content/UIASSETS/BG_Soldier_2.uasset",
+				"C:/Users/prath/OneDrive/Documents/Unreal Projects/Main_Menu/Content/UIASSETS/Button_pressed.uasset",
+				"C:/Users/prath/OneDrive/Documents/Unreal Projects/Main_Menu/Content/UIASSETS/Buttin_hooverd.uasset",
+				"C:/Users/prath/OneDrive/Documents/Unreal Projects/Main_Menu/Content/UIASSETS/newModule.uasset",
+				"C:/Users/prath/OneDrive/Documents/Unreal Projects/Main_Menu/Content/UIASSETS/MainMenu_bp.uasset",
+				"C:/Users/prath/OneDrive/Documents/Unreal Projects/Main_Menu/Content/UIASSETS/menuBG.uasset",
+				"C:/Users/prath/OneDrive/Documents/Unreal Projects/Main_Menu/Content/UIASSETS/Settings.uasset",
+				"C:/Users/prath/OneDrive/Documents/Unreal Projects/Main_Menu/Content/UIASSETS/main.uasset",
+				"C:/Users/prath/OneDrive/Documents/Unreal Projects/Main_Menu/Content/UIASSETS/newGameMenu.uasset",
+				"C:/Users/prath/OneDrive/Documents/Unreal Projects/Main_Menu/Content/UIASSETS/Untitled.umap"
+			]
+		}
+	]
+}
